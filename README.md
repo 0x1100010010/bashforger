@@ -1,4 +1,4 @@
-<div align="center">
+<center>
   <h1 align="center"> Full-Stack Developer | Computer Engineer | Enthusiast </h1><br>
 <h3>Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT<h3>  
 </div>
@@ -10,3 +10,4 @@
 
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
   <img src="https://img.shields.io/github/contributors/badges/shields" /></a> 
+</center>
