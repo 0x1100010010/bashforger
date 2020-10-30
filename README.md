@@ -7,6 +7,8 @@
 ​![profile](https://komarev.com/ghpvc/?username=bashforger)
 
 <div class="wrapper">
+div
+</div>
 <style>
   .wrapper { 
   height: 300px;
@@ -45,4 +47,3 @@ background-size: 1800% 1800%;
     100%{background-position:0% 82%}
 }
   </style>
-</div>
