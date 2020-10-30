@@ -1,7 +1,9 @@
 <div align="center">
-  <h1> Full-Stack Developer | Computer Engineer | Enthusiast </h1><br>
+  
+  <h1> Dev | Computer Engineer | Tech Enthusiast </h1><br>
+  
   <h3>Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT<h3>  
-</div>
+
 
 <br>
 
@@ -11,4 +13,4 @@
     
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)](https://github.com/bashforger)]
 
-
+</div>
