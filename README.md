@@ -1,5 +1,5 @@
-Full-Stack Developer | Computer Engineer | Enthusiast <br><br>
-Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT  <br><br>
+Full-Stack Developer | Computer Engineer | Enthusiast <br>
+Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT  <br>
 <br><br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&theme=default&show_icons=true&count_private=true)
 <br><br>
