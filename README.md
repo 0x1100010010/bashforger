@@ -9,8 +9,8 @@
 <div class="wrapper">
 <style>
   .wrapper { 
-  height: 100%;
-  width: 100%;
+  height: 300px;
+  width: 500px;
   left:0;
   right: 0;
   top: 0;
