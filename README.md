@@ -10,6 +10,6 @@
 ![Follow Me!](https://img.shields.io/github/followers/bashforger?label=Follow%20Me%21&logoColor=%23006aff&style=social)
 
 
-<img src="https://rangleio.ghost.io/content/images/2016/01/angular-2-michael-blog.gif" />
+<img title="Angular" height=30 src="https://user-images.githubusercontent.com/1560278/27637937-cb4b9b24-5c11-11e7-949b-15c1e4cdb53c.gif" />
 
 </div>
