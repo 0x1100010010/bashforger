@@ -10,6 +10,6 @@
 ![Follow Me!](https://img.shields.io/github/followers/bashforger?label=Follow%20Me%21&logoColor=%23006aff&style=social)
 
 
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://rangleio.ghost.io/content/images/2016/01/angular-2-michael-blog.gif" />
 
 </div>
