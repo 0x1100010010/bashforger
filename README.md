@@ -12,7 +12,6 @@
 <div>
 <img title="Angular" height=30 src="https://user-images.githubusercontent.com/1560278/27637937-cb4b9b24-5c11-11e7-949b-15c1e4cdb53c.gif" />
 <img title="Vue" height=30 src="https://thumbs.gfycat.com/PinkPiercingBull-size_restricted.gif" />
+<img title="Vue" height=30 src="https://cryptologos.cc/logos/versions/ethereum-eth-logo-animated.gif" />
 <div>
-  
-  
 </div>
