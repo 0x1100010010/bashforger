@@ -9,4 +9,7 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)](https://github.com/bashforger)
 ![Follow Me!](https://img.shields.io/github/followers/bashforger?label=Follow%20Me%21&logoColor=%23006aff&style=social)
 
+
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
 </div>
