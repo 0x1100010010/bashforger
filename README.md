@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div align="center">
   <p>Hi there 👋</p>
-  <p>I'm a <strong>COmputer Engineer</strong> from <strong>Pakistan</strong> :pakistan:</p>
+  <p>I'm a <strong>Computer Engineer</strong> from <strong>Pakistan</strong> :pakistan:</p>
   <h1> Dev | Computer Engineer | Tech Enthusiast </h1>
   
   <h3>Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT<h3>  
@@ -33,3 +34,5 @@ Here are some ideas to get you started:
 <img title="Docker" height=35 src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" /> 
 <div>
 </div>
+  
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="muhammad-adeel-danish"><a class="LI-simple-link" href='https://pk.linkedin.com/in/muhammad-adeel-danish?trk=profile-badge'>M. Adeel Danish</a></div>
