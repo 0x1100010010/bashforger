@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   <p>Hi there 👋</p>
   <p>I'm a <strong>Computer Engineer</strong> from <strong>Pakistan</strong> :pakistan:</p>
   
-  <h3>Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT<h3>  
+  <h3>Work Interests# Web Development, Blockchain, DevOps, IoT<h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)](https://github.com/bashforger)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <div>
 <img title="Angular" height=35 src="https://user-images.githubusercontent.com/1560278/27637937-cb4b9b24-5c11-11e7-949b-15c1e4cdb53c.gif" />
