@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
+<div>
   <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
   <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
   <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
@@ -33,5 +34,6 @@ Here are some ideas to get you started:
   <img title="AWS" height=35 src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" />
   <img title="Docker" height=35 src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
   <img title="Kubernetes" height=35 src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />
+ </div>
     
 </div>
