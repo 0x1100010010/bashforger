@@ -22,19 +22,19 @@ Here are some ideas to get you started:
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
-<div height=35>
-  <img title="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-  <img title="SASS" src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
-  <img title="React" src="https://cdn.worldvectorlogo.com/logos/react.svg" />
-  <img title="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-  <img title="NodeJS" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
-  <img title="Rails" src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
-  <img title="Solidity" src="https://cdn.worldvectorlogo.com/logos/solidity.svg" />
-  <img title="MySQL" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
-  <img title="Ethereum" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" />
-  <img title="AWS" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" />
-  <img title="Docker" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
-  <img title="Kubernetes" src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />
-</div>
+  <div>
+    <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
+    <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
+    <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
+    <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+    <img title="NodeJS" height=35 src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
+    <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
+    <img title="Solidity" height=35 src="https://cdn.worldvectorlogo.com/logos/solidity.svg" />
+    <img title="MySQL" height=35 src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
+    <img title="Ethereum" height=35 src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" />
+    <img title="AWS" height=35 src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" />
+    <img title="Docker" height=35 src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
+    <img title="Kubernetes" height=35 src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />
+  </div>
     
 </div>
