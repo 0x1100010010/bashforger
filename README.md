@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 <div align="center">
   <p>Hi there 👋</p>
   <p>I'm a <strong>Computer Engineer</strong> from <strong>Pakistan</strong> :pakistan:</p>
-  <h1> Dev | Computer Engineer | Tech Enthusiast </h1>
   
   <h3>Work Interests# Blockchain, SaaS, CI/CD, DevOps, IoT<h3>  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&theme=default&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)](https://github.com/bashforger)
 
