@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
   <p>Hi there 👋</p>
   <p>I'm a Full Stack Web Developer from <strong>Pakistan</strong> :pakistan:</p>
-  <p>Work Interests⚡ Web Development, Blockchain, DevOps, IoT<p>
+  <p>Work Interests⚡ Blockchain, Web Development, DevOps, IoT<p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
-  
-  [![Stacks](https://github-readme-stats.vercel.app/api/wakatime?username=bashforger)](https://github.com/anuraghazra/github-readme-stats)
-
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
