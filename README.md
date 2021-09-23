@@ -26,8 +26,6 @@ Here are some ideas to get you started:
     <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
     <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
     <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
-    <img title="Redux" height=35 src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-    <img title="NodeJS" height=35 src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
     <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
     <img title="Solidity" height=35 src="https://cdn.worldvectorlogo.com/logos/solidity.svg" />
     <img title="MySQL" height=35 src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
