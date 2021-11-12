@@ -1,13 +1,14 @@
-<!-- <div align="center"> -->
+<div align="">
   
   <a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/44857d07244145f18ec2c3ef83d4723e.png?r=zjh" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
   &nbsp;
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
-  
+  &nbsp;
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
-  <div>
-    ## 🛠  Technologies and tools
+
+## 🛠  Technologies and tools
+
 
 <a name="learning-now"></a>
 
@@ -19,9 +20,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/MobX-282C34?logo=MobX&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -50,7 +51,15 @@
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][tech_tools_anchor]
-</div>
+
+
+
+## 🛠  Cloud
+
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 
 
 [tech_tools_anchor]: #bonjour--
