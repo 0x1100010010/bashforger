@@ -36,3 +36,5 @@ Here are some ideas to get you started:
   </div>
     
 </div>
+
+<a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/44857d07244145f18ec2c3ef83d4723e.png?r=zjh" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
