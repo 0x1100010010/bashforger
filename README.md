@@ -37,4 +37,6 @@ Here are some ideas to get you started:
     
 </div>
 
-<a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/44857d07244145f18ec2c3ef83d4723e.png?r=zjh" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
+<a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/devcard.svg.png?r=zjh" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
+
+<a href="https://app.daily.dev/BashForger"><img src="https://github.com/bashforger/bashforger/blob/master/devcard.svg" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
