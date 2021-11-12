@@ -35,8 +35,11 @@ Here are some ideas to get you started:
     <img title="Kubernetes" height=35 src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />
   </div>
     
+  <a href="https://app.daily.dev/BashForger">
+    <img src="https://github.com/bashforger/bashforger/blob/master/devcard.svg" width="400" alt="Muhammad Adeel Danish's Dev Card"/>
+  </a>
 </div>
 <!-- 
 <a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/devcard.svg.png?r=zjh" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a> -->
 
-<a href="https://app.daily.dev/BashForger"><img src="https://github.com/bashforger/bashforger/blob/master/devcard.svg" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
+
