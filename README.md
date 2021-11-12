@@ -37,11 +37,6 @@ Here are some ideas to get you started:
     <img title="Docker" height=35 src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
     <img title="Kubernetes" height=35 src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />
   </div>
-    
-  <a href="https://app.daily.dev/BashForger">
-    <img src="https://github.com/bashforger/bashforger/blob/master/devcard.svg" width="400" alt="Muhammad Adeel Danish's Dev Card"/>
-  </a>
-  
   
 </div>
 
