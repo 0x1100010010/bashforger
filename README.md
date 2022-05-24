@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   
   <a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/44857d07244145f18ec2c3ef83d4723e.png?r=0p8" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
   
-  <p>Hi there 👋</p>
-  <p>I'm a Full Stack Web Developer from <strong>Pakistan</strong> :pakistan:</p>
-  <p>Work Interests⚡ Blockchain, Web Development, DevOps, IoT<p>
+  <p>Hey 👋</p>
+  <p>I'm a Blockchain Engineer from <strong>Pakistan</strong> :pakistan:</p>
+  <p>Work Interests⚡ Innovation, System Designs, Providing solutions that matter<p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
   
