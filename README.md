@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 
 <div align="center">
   
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
   <a href="https://app.daily.dev/BashForger"><img src="https://api.daily.dev/devcards/44857d07244145f18ec2c3ef83d4723e.png?r=0p8" width="400" alt="Muhammad Adeel Danish's Dev Card"/></a>
+  
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-adeel-danish" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-adeel-danish?trk=profile-badge">M. Adeel Danish</a></div>
+              
   
   <p>Hey 👋</p>
   <p>I'm a Blockchain Engineer from <strong>Pakistan</strong> :pakistan:</p>
-  <p>Work Interests⚡ Innovation, System Designs, Providing solutions that matter<p>
+  <p>Work Interests⚡ Innovation, Blockchain Ecosystem Designs, Providing solutions that matter<p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
   
