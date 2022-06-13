@@ -19,23 +19,13 @@ Here are some ideas to get you started:
               
   <p>Hey 👋</p>
   <p>I'm a Blockchain Engineer from <strong>Pakistan</strong> :pakistan:</p>
-  <p>Work Interests⚡ Innovation, Blockchain Ecosystem Designs, Providing solutions that matter<p>
+  <p>Work Interests⚡ Innovation, Blockchain Protocol Design, Solutions that matter<p>
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=bashforger&count_private=true&show_icons=true&theme=dark)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)]()
 
   <div>
-    <img title="Bootstrap" height=35 src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-    <img title="SASS" height=35 src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" />
-    <img title="React" height=35 src="https://cdn.worldvectorlogo.com/logos/react.svg" />
-    <img title="Rails" height=35 src="https://cdn.worldvectorlogo.com/logos/rails.svg" />
-    <img title="Solidity" height=35 src="https://cdn.worldvectorlogo.com/logos/solidity.svg" />
-    <img title="MySQL" height=35 src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
-    <img title="Ethereum" height=35 src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" />
-    <img title="AWS" height=35 src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" />
-    <img title="Docker" height=35 src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
-    <img title="Kubernetes" height=35 src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" />
   </div>
   
 </div>
